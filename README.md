@@ -22,8 +22,10 @@
 <h2 id="about">
 💻 Sobre o projeto
 </h2>
+<p>
   <img src="https://github.com/renataalvescun/Landing-page-AcademiaPsi/assets/100436812/047f2f30-7a0a-4226-a523-7a7ca547d855"  width="33px" alt="Logo">
-Landing page proposta para uma academia psíquica. O projeto possui apenas 1 arquivo em HTML e um em CSS, e 4 imagens (incluindo logo, logotipo). O intuito do mini-projeto é aprender e entender mais conceitos, que abrangem flexbox e posionamento de itens via CSS.
+ Landing page proposta para uma academia psíquica. O projeto possui apenas 1 arquivo em HTML e um em CSS, e 4 imagens (incluindo logo, logotipo). O intuito do mini-projeto é aprender e entender mais conceitos, que abrangem flexbox e posionamento de itens via CSS. </p>
+   <p> 🗯️ O projeto completo irá reunir 5 landing page para escolas com temáticas diferentes. (1/5) </p>
 <br>
 <div align="center">
   <img src="https://github.com/renataalvescun/Landing-page-AcademiaPsi/assets/100436812/938247fe-f009-40ba-9f4a-4699856f6c70" width="224px" alt="Coelho">
